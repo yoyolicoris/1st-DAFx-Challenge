@@ -80,7 +80,7 @@ The organizers will evaluate all submissions and compile a **ranking** of the re
 ## Timeline and deadlines
 
 Challenge opens on: November 5th 2025  
-Target dataset will be uploaded by April 6th 2026  
+Target dataset will be uploaded by April 17th 2026  
 Experiments must be sent to the organizers by May 31st 2026  
 Results will be notified at DAFx26 (1-4 Sept. 2026)!  
 
