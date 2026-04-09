@@ -103,7 +103,7 @@ For this task, participants must estimate a subset of the physical parameters of
 
 Specifically, the following parameter set must be inferred:
 
-S(P) = { μ := ρ/h, D/μ, T₀/μ, Ly, xo, yo }
+S(P) = { μ := ρh, D/μ, T₀/μ, Ly, xo, yo }
 
 These six parameters uniquely define the plate’s impulse response and modal distribution.
 
@@ -111,7 +111,7 @@ These six parameters uniquely define the plate’s impulse response and modal di
 
 | Parameter | Symbol | Range | Description |
 |----------|--------|--------|-------------|
-| Density–thickness ratio | μ = ρ/h | derived | Density divided by thickness |
+| Density–thickness ratio | μ = ρ h | derived | Volume density times thickness |
 | Rigidity ratio | D/μ | derived | Flexural rigidity normalized by μ |
 | Tension ratio | T₀/μ | derived | Tension normalized by μ |
 | Plate height | Ly | [1.1, 4.0] m | Plate vertical dimension |
