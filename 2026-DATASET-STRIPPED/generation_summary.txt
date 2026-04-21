@@ -1,6 +1,7 @@
 Random Plate Dataset Generation Summary
 ========================================
 
+Generation timestamp: 2026-04-21 11:25:30
 Duration per IR: 5.0s
 Sample rate: 44100 Hz
 
@@ -20,5 +21,4 @@ fp_x: 0.335 (fixed)
 fp_y: 0.467 (fixed)
 op_x: [0.51, 1.0]
 op_y: [0.51, 1.0]
-
 

@@ -135,7 +135,7 @@ class ModalPlate:
                 ov[ind, :] = [gf, m, n]
                 ind += 1
 
-        ov[:, 0] = np.where(ov[:, 0] < 20 * 2 * np.pi, self.maxOm + 1000, ov[:, 0])
+       # ov[:, 0] = np.where(ov[:, 0] < 20 * 2 * np.pi, self.maxOm + 1000, ov[:, 0])
         ov = ov[np.argsort(ov[:, 0])]
         ov = ov[ov[:, 0] <= self.maxOm]
         return ov
